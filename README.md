@@ -63,3 +63,4 @@ Through systematic evaluation and enhancement, the neural network model for diag
 
 - **CSC3066 – Deep Learning**: Course for which this project was developed.
 - **Wisconsin Dataset**: Source of the data used in this project.
+- For further information please refer to the report and the Jupyter notebook markdown files in this repo.
