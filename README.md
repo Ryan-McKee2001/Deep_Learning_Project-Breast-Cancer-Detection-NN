@@ -45,29 +45,6 @@ The Wisconsin Breast Cancer dataset contains 569 observations with 30 features e
 - **Testing Error**: Improved significantly
 - **AUC**: 1 (indicating excellent performance)
 
-## How to Run
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/breast-cancer-diagnosis.git
-    cd breast-cancer-diagnosis
-    ```
-
-2. Install the necessary dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the training script:
-    ```bash
-    python train.py
-    ```
-
-4. Evaluate the model:
-    ```bash
-    python evaluate.py
-    ```
-
 ## Results
 
 The final model exhibits significant performance improvements across all key metrics, providing a robust classification model for the Wisconsin Breast Cancer dataset.
@@ -81,10 +58,6 @@ The final model exhibits significant performance improvements across all key met
 ## Conclusion
 
 Through systematic evaluation and enhancement, the neural network model for diagnosing breast cancer was significantly improved. The final model demonstrates excellent performance and provides a feasible solution for classifying the Wisconsin Breast Cancer dataset.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
